@@ -1,8 +1,7 @@
 # Spinal-Cord-UMN-Burden
 
 Analysis code for cervical spinal cord and brain MRI, and visual lateral-column pallor, as measures
-of upper motor neuron burden in motor neuron disease. 29 participants with primary lateral
-sclerosis, UMN-dominant ALS, slowly progressive ALS or classical ALS; 52 MRI sessions.
+of upper motor neuron burden in motor neuron disease.
 
 ## Layout
 
