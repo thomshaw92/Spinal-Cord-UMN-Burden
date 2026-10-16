@@ -1,0 +1,7 @@
+data/*
+!data/README.md
+output/
+__pycache__/
+*.rds
+.Rhistory
+.DS_Store
